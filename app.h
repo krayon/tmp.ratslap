@@ -32,4 +32,6 @@
 #define APP_COPYRIGHT               "Copyright (C) 2016-2020 "APP_AUTHOR
 #define APP_URL                     "https://gitlab.com/krayon/ratslap/"
 
+// Nothing
+
 #endif /* APP_H */
